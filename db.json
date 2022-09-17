@@ -1,21 +1,114 @@
-
 {
-  "users": [
+  "cars": [
     {
       "id": 1,
-      "name": "Chandra",
-      "age": 29,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": "5000",
+      "Description": "Tata Altroz with all original documents",
+      "Price": 7000
     },
     {
-      "id": 2,
-      "name": "Nrupul",
-      "age": 32,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": "FSD"
+      "id": 3,
+      "brand": "AMT",
+      "type": "Manual",
+      "year": 2019,
+      "kms": "10000",
+      "Description": "Tata Altroz with all original documents",
+      "Price": 90000
+    },
+    {
+      "id": 5,
+      "brand": "AMT",
+      "type": "Manual",
+      "year": 2019,
+      "kms": "12000",
+      "Description": "Tata Altroz with all original documents",
+      "Price": 420000
+    },
+    {
+      "id": 6,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": "15000",
+      "Description": "Tata Nexon with all original documents",
+      "Price": 450000
+    },
+    {
+      "id": 7,
+      "brand": "Ford",
+      "type": "Manual",
+      "year": 2019,
+      "kms": "200",
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 8,
+      "brand": "Ferrari",
+      "type": "AMT",
+      "year": 2017,
+      "kms": "800",
+      "Description": "Tata Nexon with all original documents",
+      "Price": 25000
+    },
+    {
+      "brand": "AMT",
+      "type": "Automated",
+      "year": "2018",
+      "kms": "100",
+      "Description": "Buy Krishna Motors",
+      "Price": "230000",
+      "id": 9
+    },
+    {
+      "brand": "Ferrari",
+      "type": "Manual",
+      "year": "2018",
+      "kms": "2435",
+      "Description": "A car no with 1000 of dream",
+      "Price": "300000",
+      "id": 10
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 8,
+      "brand": "Ferrari",
+      "type": "AMT",
+      "year": 2017,
+      "kms": "800",
+      "Description": "Tata Nexon with all original documents",
+      "Price": 25000
+    },
+    {
+      "brand": "AMT",
+      "type": "Automated",
+      "year": "2018",
+      "kms": "100",
+      "Description": "Buy Krishna Motors",
+      "Price": "230000",
+      "id": 9
+    },
+    {
+      "brand": "AMT",
+      "type": "Manual",
+      "year": 2019,
+      "kms": "10000",
+      "Description": "Tata Altroz with all original documents",
+      "Price": 90000,
+      "id": 10
+    },
+    {
+      "brand": "Ferrari",
+      "type": "Manual",
+      "year": "2018",
+      "kms": "2435",
+      "Description": "A car no with 1000 of dream",
+      "Price": "300000",
+      "id": 11
     }
   ]
 }
