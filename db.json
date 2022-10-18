@@ -1,28 +1,5 @@
 {
   "cart": [
-    {
-      "payload": {
-        "id": 48,
-        "name": "Barth",
-        "type": "fine_dining",
-        "rating": 2,
-        "number_of_votes": 948,
-        "price_starts_from": 50,
-        "image": "https://picsum.photos/200"
-      },
-      "id": 1
-    },
-    {
-      "payload": {
-        "id": 70,
-        "name": "Cuppleditch",
-        "type": "fine_dining",
-        "rating": 3.5,
-        "number_of_votes": 619,
-        "price_starts_from": 50,
-        "image": "https://picsum.photos/200"
-      },
-      "id": 2
-    }
+     
   ]
 }
